@@ -8,7 +8,7 @@ export default function App() {
 
             <a href="/products">Products</a>
             <br />
-            <a href="/supplierorders">Ordered products sum by suppliers</a>
+            <a href="/supplierordersum">Ordered products sum by suppliers</a>
             <br />
             <a href="/querycollection">Query collection</a>
             <br />
