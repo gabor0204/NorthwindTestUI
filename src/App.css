@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.columnTitle {
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+}
+
+.cell {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+table {
+    width: 100%;
+    border: 1px;
+    border-style: solid;
+    border-color: grey;
+}
+
+.nortwindButton {
+    display: "inline";
+    margin-left: 20px;
+}
+
+.nameTitle {
+    display: 'inline';
+    margin-top: 20px;
+}
